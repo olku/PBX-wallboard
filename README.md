@@ -20,4 +20,4 @@ PBX API documentation on ACD stats: <a href="https://axeos.com/knowledgebase/pbx
 This is not an official <a href="https://axeos.com">Axeos</a> product. It's not released by Axeos and it's not supported by Axeos. 
 
 ## Issues
-If you encounter an issue which is related to the code you can <a href="https://github.com/olku/../issues/new">open an issue</a> or choose to fix it yourself. <p>Learn from the code, build an app from it, develop new features. Please share your code via a pull request when you do.</p>
+If you encounter an issue which is related to the code you can <a href="https://github.com/olku/PBX-wallboard/issues/new">open an issue</a> or choose to fix it yourself. <p>Learn from the code, build an app from it, develop new features. Please share your code via a pull request when you do.</p>
