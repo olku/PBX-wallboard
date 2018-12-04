@@ -1,0 +1,30 @@
+{
+  "name": "PBX-Wallboard",
+  "version": "1.0.0",
+  "description": "ACD wallboard for office vpbx",
+  "author": "Olle Kunnen",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "Olle Kunnen",
+    "mac": {
+      "category": "public.app-category.productivity"
+    },
+    "win": {
+      "icon": "build/icon.ico"
+    }
+  },
+  "keywords": [
+    "Electron",
+    "Axeos PBX"
+  ],
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "electron": "^3.0.3",
+    "electron-builder": "^20.38.0"
+  }
+}

@@ -1,0 +1,57 @@
+body * {
+  transition: all 0.25s ease-in-out;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html, body {
+  max-width: 100vw;
+  font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 26px;
+  font-weight: 400;
+  background-color: #ecede7;
+  overflow-x: hidden; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  width: 100%;
+  font-weight: 700;
+  font-size: 2.3rem;
+  line-height: 2.9rem;
+  margin: 0.3rem 0;
+  display: block; }
+
+a {
+  font-family: "Montserrat", serif;
+  text-decoration: none;
+  color: #f39600; }
+
+br {
+  line-height: 3.5rem; }
+table {
+  table-layout: fixed ;
+  width: 100%;
+  margin-bottom: 15px;
+
+}
+table td {
+  width: 25%;
+}
+table caption {
+  padding: 10px 0;
+  background-color: #f39600;
+  color: white;
+}
+table thead th {
+  font-weight: 400;
+  padding: 3px 0;
+}
+table tbody th {
+  font-size: 2.5rem;
+  padding: 3px 0;
+}
